@@ -27,7 +27,7 @@ def foo.shout
   puts "Foo Foo Foo!"
 end
 foo.shout
-  
+
 p Foo1.new.respond_to?(:shout)
 
 #------------------------------

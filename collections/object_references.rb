@@ -25,6 +25,5 @@ puts superheroes
 a = "batman"
 puts superheroes
 
-# jerry is in fact superman. who knew!
 b.gsub!("jerry", "superman")
 puts superheroes

@@ -30,4 +30,4 @@ p $stderr.object_id
 p STDERR.object_id
 
 # capture = StringIO.new
-p capture
+# p capture

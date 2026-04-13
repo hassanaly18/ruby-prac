@@ -53,3 +53,5 @@ rescue
 end
 
 decode_all(EXAMPLE_SECRETS)
+decode_all(EXAMPLE_SECRETS)
+p EXAMPLE_SECRETS

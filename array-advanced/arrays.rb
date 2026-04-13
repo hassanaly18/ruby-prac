@@ -6,14 +6,14 @@ life = array.at(1)
 puts zen
 puts life
 
-zen, john = [[4, 8], [3, 16], [23, 42, 15]]
+zen, austin = [[4, 8], [3, 16], [23, 42, 15]]
 
 p zen
-p john
+p austin
 
 
 def zen
-  [42. true]
+  [42, true]
 end
 
 x,y = zen
@@ -39,8 +39,8 @@ p more
 
 car, *cdr = [42, 43, 44]
 puts 
-puts car
-puts cdr 
+p car
+p cdr 
 
 
 def zen(*args)
